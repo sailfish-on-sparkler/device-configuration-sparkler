@@ -1,0 +1,33 @@
+# numbers
+keycode 2 = U+0031
+keycode 3 = U+0032
+keycode 4 = U+0033
+keycode 5 = U+0034
+keycode 6 = U+0035
+keycode 7 = U+0036
+keycode 8 = U+0037
+keycode 9 = U+0038
+keycode 10 = U+0039
+keycode 11 = U+0030
+
+# asterisk
+keycode 522 = U+002A
+# pound/hash/number sign
+keycode 523 = U+0023
+
+keycode 139 = HomePage
+keycode 28 = Return
+keycode 14 = BackSpace
+
+keycode 103 = Up
+keycode 105 = Left
+keycode 106 = Right
+keycode 108 = Down
+
+keycode 445 = Call
+keycode 446 = Hangup
+
+# left softkey
+keycode 696 = Back
+# right softkey
+keycode 697 = MenuKB
