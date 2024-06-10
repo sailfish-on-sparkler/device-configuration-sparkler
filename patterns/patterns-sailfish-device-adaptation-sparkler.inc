@@ -6,6 +6,7 @@ Requires: device-sparkler-img-recovery
 Requires: kernel-adaptation-msm8909
 Requires: mesa-llvmpipe-dri-swrast-driver
 Requires: mipi-dbi-configs
+Requires: msm-firmware-loader
 Requires: qt5-plugin-platform-eglfs
 Requires: qrtr
 Requires: rmtfs
